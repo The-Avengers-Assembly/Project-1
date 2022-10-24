@@ -32,7 +32,7 @@ main:
 	syscall
 	#get first input
 	li $v0, 5
-	syscall
+	syscall 
 	#move first input to s0
 	move $s0, $v0
 	
