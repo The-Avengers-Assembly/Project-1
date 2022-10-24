@@ -1,5 +1,5 @@
 # Class CS2640
-# AuthorName: Bryce Lam, Loc Nguyen, Colin Mcgough, Evan Cheng
+# AuthorName: Bryce Lam, Loc Nguyen, Colin Mcgough, Evan Cheng /
 # Date: 10/19/22
 # Objective 1: Take two user inputs and hold in register s0 and s1. Then, print it back to user
 # Objective 2: Using the two user inputs, perform add, sub, mul, and div, outputing these results back to user
